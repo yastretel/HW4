@@ -1,0 +1,7 @@
+D:\Work GB\C#\HW 4\Task 29\bin\Debug\Task_29.exe
+D:\Work GB\C#\HW 4\Task 29\bin\Debug\Task_29.pdb
+D:\Work GB\C#\HW 4\Task 29\obj\Debug\Task 29.csproj.AssemblyReference.cache
+D:\Work GB\C#\HW 4\Task 29\obj\Debug\Task 29.csproj.SuggestedBindingRedirects.cache
+D:\Work GB\C#\HW 4\Task 29\obj\Debug\Task 29.csproj.CoreCompileInputs.cache
+D:\Work GB\C#\HW 4\Task 29\obj\Debug\Task_29.exe
+D:\Work GB\C#\HW 4\Task 29\obj\Debug\Task_29.pdb
